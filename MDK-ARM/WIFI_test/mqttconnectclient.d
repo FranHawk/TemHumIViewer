@@ -1,0 +1,11 @@
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTConnectClient.c
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTPacket.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTConnect.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTPublish.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTSubscribe.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTUnsubscribe.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTFormat.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\StackTrace.h
+wifi_test\mqttconnectclient.o: H:\keilv5\ARM\ARMCC\Bin\..\include\stdio.h
+wifi_test\mqttconnectclient.o: ..\Mqtt\MQTTPacket.h
+wifi_test\mqttconnectclient.o: H:\keilv5\ARM\ARMCC\Bin\..\include\string.h
